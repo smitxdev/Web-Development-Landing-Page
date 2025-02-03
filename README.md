@@ -5,6 +5,8 @@ Web-Development-Landing-Page Using Talwind CSS - Responsive Design:
 ![image](https://github.com/user-attachments/assets/a5fb150a-e5a4-4f45-b719-e826f2db143f)
 
 Mobile Friendly - Power Of Talwind CSS :)
-https://github.com/user-attachments/assets/c48d30e6-fd99-4a2c-b8e5-f79b736b6a5e
-https://github.com/user-attachments/assets/794d0835-1ada-4140-b50a-6d43aa43d46e
+![Watch the video](https://github.com/user-attachments/assets/c48d30e6-fd99-4a2c-b8e5-f79b736b6a5e)
+
+
+
 
